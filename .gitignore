@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build outputs
+quickbite-frontend/dist/
+quickbite-backend/dist/
+
+# Env files (do NOT commit secrets)
+quickbite-backend/.env
+quickbite-frontend/.env
+
+# Misc
+.DS_Store
+.env
